@@ -1,0 +1,2 @@
+rootProject.name = 'static-website-cloudfront-s3-route53'
+include 'infra'
